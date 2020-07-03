@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA['English'ProductSearch in'Music' Category Test is Successfull]]>
+    </line>
+    <line>
+      <![CDATA['Selenium'ProductSearch in'Books' Category Test is Successfull]]>
+    </line>
+    <line>
+      <![CDATA['Baby'ProductSearch in'Art' Category Test is Successfull]]>
+    </line>
+    <line>
+      <![CDATA['Crafts'ProductSearch in'Art' Category Test is Successfull]]>
+    </line>
+    <line>
+      <![CDATA['English'ProductSearch in'Music' Category Test is Successfull]]>
+    </line>
+    <line>
+      <![CDATA['Selenium'ProductSearch in'Books' Category Test is Successfull]]>
+    </line>
+    <line>
+      <![CDATA['Baby'ProductSearch in'Art' Category Test is Successfull]]>
+    </line>
+    <line>
+      <![CDATA['Crafts'ProductSearch in'Art' Category Test is Successfull]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="496664" started-at="2020-06-24T04:44:59 PDT" finished-at="2020-06-24T04:53:15 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="496664" started-at="2020-06-24T04:44:59 PDT" finished-at="2020-06-24T04:53:15 PDT">
+      <class name="dataDrivenFrameworkDemos.DDFDBTest">
+        <test-method status="PASS" signature="CatSearch(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkDemos.DDFDBTest@30a3107a]" name="CatSearch" duration-ms="23264" started-at="2020-06-24T04:45:04 PDT" data-provider="ebayData" finished-at="2020-06-24T04:45:27 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Music]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA['English'ProductSearch in'Music' Category Test is Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CatSearch -->
+        <test-method status="PASS" signature="CatSearch(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkDemos.DDFDBTest@30a3107a]" name="CatSearch" duration-ms="29187" started-at="2020-06-24T04:45:27 PDT" data-provider="ebayData" finished-at="2020-06-24T04:45:56 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Books]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA['Selenium'ProductSearch in'Books' Category Test is Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CatSearch -->
+        <test-method status="PASS" signature="CatSearch(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkDemos.DDFDBTest@30a3107a]" name="CatSearch" duration-ms="39725" started-at="2020-06-24T04:45:56 PDT" data-provider="ebayData" finished-at="2020-06-24T04:46:36 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Art]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Baby]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA['Baby'ProductSearch in'Art' Category Test is Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CatSearch -->
+        <test-method status="PASS" signature="CatSearch(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkDemos.DDFDBTest@30a3107a]" name="CatSearch" duration-ms="50009" started-at="2020-06-24T04:46:36 PDT" data-provider="ebayData" finished-at="2020-06-24T04:47:26 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Art]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Crafts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA['Crafts'ProductSearch in'Art' Category Test is Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CatSearch -->
+        <test-method status="PASS" signature="CatSearch(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkDemos.DDFDBTest@30a3107a]" name="CatSearch" duration-ms="66944" started-at="2020-06-24T04:47:26 PDT" data-provider="ebayData" finished-at="2020-06-24T04:48:33 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Music]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA['English'ProductSearch in'Music' Category Test is Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CatSearch -->
+        <test-method status="PASS" signature="CatSearch(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkDemos.DDFDBTest@30a3107a]" name="CatSearch" duration-ms="95825" started-at="2020-06-24T04:48:33 PDT" data-provider="ebayData" finished-at="2020-06-24T04:50:09 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Books]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA['Selenium'ProductSearch in'Books' Category Test is Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CatSearch -->
+        <test-method status="PASS" signature="CatSearch(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkDemos.DDFDBTest@30a3107a]" name="CatSearch" duration-ms="77946" started-at="2020-06-24T04:50:09 PDT" data-provider="ebayData" finished-at="2020-06-24T04:51:27 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Art]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Baby]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA['Baby'ProductSearch in'Art' Category Test is Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CatSearch -->
+        <test-method status="PASS" signature="CatSearch(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkDemos.DDFDBTest@30a3107a]" name="CatSearch" duration-ms="86976" started-at="2020-06-24T04:51:27 PDT" data-provider="ebayData" finished-at="2020-06-24T04:52:54 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Art]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Crafts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA['Crafts'ProductSearch in'Art' Category Test is Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CatSearch -->
+      </class> <!-- dataDrivenFrameworkDemos.DDFDBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
